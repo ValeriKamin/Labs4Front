@@ -78,7 +78,3 @@ lab04/
 
 <img width="1215" height="188" alt="image" src="https://github.com/user-attachments/assets/a269084e-4a17-4af0-9ead-a3abaa93d9e6" />
 
-## Автор
-
-Валерій Студент
-
