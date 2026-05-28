@@ -36,8 +36,9 @@
 ```text
 
 lab04/
-    ├── index.html
-    └── script.js
+├── index.html
+├── script.js
+└── README.md
 ```
 
 
